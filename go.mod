@@ -1,4 +1,4 @@
-module  github.com/hoanggggg5/learn-websocket
+module github.com/hoanggggg5/learn-websocket
 
 go 1.17
 
